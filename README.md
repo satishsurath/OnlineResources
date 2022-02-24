@@ -1,8 +1,8 @@
 # CodingCheatSheets
-## CodingCheatSheets
-### CodingCheatSheets
-```python
-print("Hello World!")
+## Git Commands
+**To Update an existing / cloned Repo**
+```bash
+git pull origin main
 ```
 **My Name is Satish, I'm an IT Manager**
 <hr>
