@@ -1,4 +1,4 @@
-# CodingCheatSheets
+# Coding Cheat Sheets
 ## Git Commands
 **To Update an existing / cloned Repo**
 ```bash
