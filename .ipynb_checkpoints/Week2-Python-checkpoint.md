@@ -6,6 +6,14 @@
 * https://dev.to/ (A constructive and inclusive social network for software developers.)
 * https://stackoverflow.com (Stack Overflow | The World’s Largest Online Community for Developers)
 
+## Starting Jupyter Labs
+
+Note: Make sure you have activated the correct Conda python environment first.
+```bash
+jupyter lab
+```
+
+
 ## Python Functions
 
 
