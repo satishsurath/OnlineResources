@@ -21,6 +21,7 @@ git reset --hard
 
 
 ## Resources
+* [Advanced Git Operations](AdvancedGit.md)
 * [Week 2 - Python](Week2-Python.md)
 
 
