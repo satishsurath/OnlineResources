@@ -13,5 +13,11 @@ git add .
 ```bash
 git commit -a -s -m 'Commit Message here'
 ```
-*I live in Downtown, Toronto*
-![](https://github.com/nomadic-me/CodingCheatSheets/blob/main/TotontoLogo.png?raw=true)
+
+**To discard the local changes** 
+```bash
+git reset --hard
+```
+
+<!--*I live in Downtown, Toronto*
+![](https://github.com/nomadic-me/CodingCheatSheets/blob/main/TotontoLogo.png?raw=true) -->
