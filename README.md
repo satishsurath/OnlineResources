@@ -1,5 +1,5 @@
 
-## Resource Repositary
+## Resources
 * [Introduction to Finance](Week1-IntroToFinance.md)
 * [Git - Basic Operations](Week1-GitBasicOperations.md) 
 * [Git - Markdown Resources](Week1-GitMarkdownResources.md)
