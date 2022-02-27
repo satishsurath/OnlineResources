@@ -2,9 +2,17 @@
 
 ## General Resources:
 
-* https://leetcode.com (Place to expand your knowledge and get prepared for your next interview.)
-* https://dev.to/ (A constructive and inclusive social network for software developers.)
-* https://stackoverflow.com (Stack Overflow | The World’s Largest Online Community for Developers)
+### https://leetcode.com
+![From Leetcode.com: LeetCode - The World's Leading Online Programming Learning Platform | Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.](Resources/Images/link-previews/2022-02-27-Leetcode.com-LeetCode_-_The_World's_Leading….png) 
+
+
+### https://dev.to/
+![From DEV Community: DEV Community | A constructive and inclusive social network for software developers. With you every step of your journey.](Resources/Images/link-previews/2022-02-27-DEV_Community-DEV_Community.png) 
+
+
+### https://stackoverflow.com 
+![From Stack Overflow: Stack Overflow - Where Developers Learn, Share, & Build Careers | Stack Overflow | The World’s Largest Online Community for Developers](Resources/Images/link-previews/2022-02-27-Stack_Overflow-Stack_Overflow_-_Where_Develop….png) 
+https://stackoverflow.com
 
 ## Starting Jupyter Labs
 
@@ -18,14 +26,15 @@ jupyter lab
 
 
 ### Additional Python Resources:
-* [Conditional Statements](https://realpython.com/python-conditional-statements/)
-* [Python Conditions and If statements](https://www.w3schools.com/python/python_conditions.asp)
-* [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
-* [Python nested IF statements](https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm)
+* [Conditional Statements](https://realpython.com/python-conditional-statements/) https://realpython.com/python-conditional-statements/
+* [Python Conditions and If statements](https://www.w3schools.com/python/python_conditions.asp) https://www.w3schools.com/python/python_conditions.asp
+* [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html) https://docs.python.org/3/tutorial/errors.html
+* [Python nested IF statements](https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm) https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm 
 
 
 ### [Extended Slices](https://docs.python.org/release/2.3.5/whatsnew/section-slices.html)
 
+https://docs.python.org/release/2.3.5/whatsnew/section-slices.html
 
 For example, you can now easily extract the elements of a list that have even indexes:
 ```python
@@ -50,6 +59,8 @@ This also works for tuples, arrays, and strings:
 ````
 
 ### [range() Function](https://www.w3schools.com/python/ref_func_range.asp)
+
+https://www.w3schools.com/python/ref_func_range.asp
 
 Example
 
