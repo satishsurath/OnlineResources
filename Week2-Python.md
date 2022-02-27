@@ -29,13 +29,13 @@ jupyter lab
 
 
 #### [Python Conditions and If statements](https://www.w3schools.com/python/python_conditions.asp) https://www.w3schools.com/python/python_conditions.asp
-![From W3schools.com: Python Conditions | W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.](link-previews/2022-02-27-W3schools.com-Python_Conditions.png) 
+![From W3schools.com: Python Conditions | W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.](Resources/Images/link-previews/2022-02-27-W3schools.com-Python_Conditions.png) 
 
 #### [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html) https://docs.python.org/3/tutorial/errors.html
-![From Python.org: 8. Errors and Exceptions — Python 3.10.2 documentation | ](link-previews/2022-02-27-Python.org-8._Errors_and_Exceptions_—_Pyt.png) 
+![From Python.org: 8. Errors and Exceptions — Python 3.10.2 documentation | ](Resources/Images/link-previews/2022-02-27-Python.org-8._Errors_and_Exceptions_—_Pyt.png) 
 
 #### [Python nested IF statements](https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm) https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm 
-![From Tutorialspoint.com: Python nested IF statements | Python nested IF statements,  There may be a situation when you want to check for another condition after a condition resolves to true. In such a situation, you can use the nested if  constr](link-previews/2022-02-27-Tutorialspoint.com-Python_nested_IF_statements.png) 
+![From Tutorialspoint.com: Python nested IF statements | Python nested IF statements,  There may be a situation when you want to check for another condition after a condition resolves to true. In such a situation, you can use the nested if  constr](Resources/Images/link-previews/2022-02-27-Tutorialspoint.com-Python_nested_IF_statements.png) 
 
 
 
