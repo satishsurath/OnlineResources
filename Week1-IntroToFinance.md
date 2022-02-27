@@ -21,6 +21,6 @@
 ![From Fintechmagazine.com:  | ](Resources/Images/link-previews/2022-02-27-Fintechmagazine.com-.png) 
 
 ### https://www.coindesk.com/learn/
-![From Coindesk.com: CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data | Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.](Resources/Images/link-previews/2022-02-27-Coindesk.com-CoinDesk_Bitcoin,_Ethereum,_C….png) 
+![From Coindesk.com: CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data | Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.](Resources/Images/link-previews/2022-02-27-Coindesk.com-CoinDesk_Bitcoin_Ethereum.png) 
 
 
