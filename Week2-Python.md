@@ -2,17 +2,15 @@
 
 ## General Resources:
 
-### https://leetcode.com
-![From Leetcode.com: LeetCode - The World's Leading Online Programming Learning Platform | Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.](Resources/Images/link-previews/2022-02-27-Leetcode.com-LeetCode_-_The_World's_Leading….png) 
-
-
 ### https://dev.to/
 ![From DEV Community: DEV Community | A constructive and inclusive social network for software developers. With you every step of your journey.](Resources/Images/link-previews/2022-02-27-DEV_Community-DEV_Community.png) 
-
 
 ### https://stackoverflow.com 
 ![From Stack Overflow: Stack Overflow - Where Developers Learn, Share, & Build Careers | Stack Overflow | The World’s Largest Online Community for Developers](Resources/Images/link-previews/2022-02-27-Stack_Overflow-Stack_Overflow_-_Where_Develop….png) 
 https://stackoverflow.com
+
+### https://leetcode.com
+![From Leetcode.com: LeetCode - The World's Leading Online Programming Learning Platform | Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.](Resources/Images/link-previews/2022-02-27-Leetcode.com-LeetCode_-_The_World's_Leading….png) 
 
 ## Starting Jupyter Labs
 
