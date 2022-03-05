@@ -86,4 +86,21 @@ for n in x:
   print(n)
 ```
 
+### From Stack Overflow: Using global variables in a function | How can I create or use a global variable in a function? 
+#### https://stackoverflow.com/questions/423379/using-global-variables-in-a-function
 
+If I create a global variable in one function, how can I use that global variable in another function? Do I need to store the global variab... ![From Stack Overflow: Using global variables in a function | How can I create or use a global variable in a function?](Resources/Images/link-previews/2022-03-05-Stack_Overflow-Using_global_variables_in_a_fu.png)
+
+```python
+globvar = 0
+
+def set_globvar_to_one():
+    global globvar    # Needed to modify global copy of globvar
+    globvar = 1
+
+def print_globvar():
+    print(globvar)     # No need for global declaration to read value of globvar
+
+set_globvar_to_one()
+print_globvar()       # Prints 1
+```
