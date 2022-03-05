@@ -104,3 +104,7 @@ def print_globvar():
 set_globvar_to_one()
 print_globvar()       # Prints 1
 ```
+
+### Medium: Understanding the Levenshtein Distance Equation for Beginners
+#### https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0
+![From Medium: Understanding the Levenshtein Distance Equation for Beginners | I recently came across a situation where I needed fuzzy string matching functionality for a command line application I built. After…](Resources/Images/link-previews/2022-03-05-Medium-Understanding_the_Levenshtein_.png) 
