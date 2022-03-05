@@ -6,5 +6,8 @@
 * [Python](Week2-Python.md)
 * [Git - Advanced Operations](AdvancedGit.md)
 
+
+## PythonJupyterNotebooks
+[PythonJupyterNotebooks](PythonJupyterNotebooks/)
 <!--*I live in Downtown, Toronto*
 ![](https://github.com/nomadic-me/CodingCheatSheets/blob/main/TotontoLogo.png?raw=true) -->
