@@ -4,6 +4,7 @@
 * [Git - Basic Operations](Week1-GitBasicOperations.md) 
 * [Git - Markdown Resources](Week1-GitMarkdownResources.md)
 * [Python](Week2-Python.md)
+* [Additional Finance Concepts](Week2-FinanceConcepts.md)
 * [Git - Advanced Operations](AdvancedGit.md)
 
 
