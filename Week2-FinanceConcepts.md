@@ -1,5 +1,8 @@
 # Additional Finance Concepts
 
+## Corresponding Jupyter Notebook:
+[Jupyter Notebook](PythonJupyterNotebooks/Week2-Day3-Quick1.ipynb)
+
 ### From Investopedia: Understanding the Time Value of Money 
 #### https://www.investopedia.com/articles/03/082703.asp
 
